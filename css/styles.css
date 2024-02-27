@@ -43,6 +43,7 @@ h1 {
 @media (min-width: 768px) {
 	.dos-columnas {
 		display: flex;
+		justify-content: space-around;
 		gap: 3rem;
 	}
 }
